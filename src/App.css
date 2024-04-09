@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+*{
+  max-width: 1400px;
+  margin: auto;
+  box-sizing: border-box;
+}
+input{
+  padding-right: 336px;
+}

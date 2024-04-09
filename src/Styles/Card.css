@@ -1,0 +1,10 @@
+.card-movie{
+    width: 18rem;
+}
+
+.card-movie:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    z-index: 100;
+    border: 2px solid var(--title-color);
+}
